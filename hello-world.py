@@ -1,4 +1,4 @@
 print('Hello World')
 
-top = 500 + 12
-print(top)
+top = 500 + 125
+print("sayıların toplamı",top)
